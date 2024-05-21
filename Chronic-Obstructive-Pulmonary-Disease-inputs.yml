@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule3:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-history---primary.py
+inputModule4:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-emphysema---primary.py
+inputModule5:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-bronchiolitis---primary.py
+inputModule6:
+  class: File
+  path: python/other-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule7:
+  class: File
+  path: python/bullous-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule8:
+  class: File
+  path: python/acute-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule9:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-airway---primary.py
+inputModule10:
+  class: File
+  path: python/severe-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule11:
+  class: File
+  path: python/chronic---primary.py
+inputModule12:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-specified---primary.py
+inputModule13:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-exacerbation---primary.py
+inputModule14:
+  class: File
+  path: python/chronic-obstructive-pulmonary-disease-copd-bronchitis---primary.py
+inputModule15:
+  class: File
+  path: python/chemical-chronic-obstructive-pulmonary-disease-copd---primary.py
+inputModule16:
+  class: File
+  path: python/copd---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
